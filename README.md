@@ -6,7 +6,7 @@ This code implements the abnormality localization algorithm from the following p
 >
 > [Multi-task weak supervision enables automated abnormality localization in whole-body FDG-PET/CT]
 
-The experiments use a dataset from the Stanford Hospital of FDG-PET/CT scans and their associated reports. A tutorial on how to use the model for predictions on custom input can be found at `pet_ct/notebooks/tutorial/notebook.ipynb`.
+The experiments use a dataset from the Stanford Hospital of FDG-PET/CT scans and their associated reports. A tutorial on how to load a model in for predictions on custom input can be found at `pet_ct/notebooks/tutorial/notebook.ipynb`.
 
 ## Abstract
 
